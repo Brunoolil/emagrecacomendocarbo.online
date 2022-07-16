@@ -24,6 +24,21 @@
 body {
   font-size: 16px;
 }
+.topo{
+  width: 700px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  background-color: #CF001C;
+  color: white;
+  justify-content: center;
+
+}
+h1{
+  font-size: 75px;
+  font-weight: bold;
+
+}
 
 .fb-comments {
   border: 1px solid #e9ebee;
